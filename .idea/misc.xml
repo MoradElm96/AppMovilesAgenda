@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Alumno/AndroidStudioProjects/myApp/app/src/main/res/layout/activity_ver_personas.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Alumno/AndroidStudioProjects/myApp/app/src/main/res/layout/activitycalculadora.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Alumno/AndroidStudioProjects/myApp/app/src/main/res/layout/administar_personas.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Alumno/AndroidStudioProjects/myApp/app/src/main/res/layout/item_personas.xml" value="0.33" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout-land/activity_main.xml" value="0.1882716049382716" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout-land/activity_resultado.xml" value="0.21" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout-land/activity_ver_personas.xml" value="0.1882716049382716" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout-land/activitycalculadora.xml" value="0.19223985890652556" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout-land/administar_personas.xml" value="0.33" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout-land/informacion.xml" value="0.1882716049382716" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout-land/item_personas.xml" value="0.33" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout-land/linterna.xml" value="0.19223985890652556" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout/activity_main.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout/activity_resultado.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout/activity_ver_personas.xml" value="0.25" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout/activitycalculadora.xml" value="0.29891304347826086" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout/administar_personas.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout/agregar.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout/borrar.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout/consultar.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout/crud_coches.xml" value="0.28177083333333336" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout/grabadora.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout/informacion.xml" value="0.3179347826086957" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout/item_personas.xml" value="0.290625" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout/linterna.xml" value="0.290625" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout/listadepersonas.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/layout/pantalla_auxiliar.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/menu/overflow.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/mipmap-anydpi-v26/ic_index.xml" value="0.2234375" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/mipmap-anydpi-v26/ic_index_round.xml" value="0.2234375" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.29791666666666666" />
+        <entry key="..\:/Users/morad/AndroidStudioProjects/myApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.29791666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

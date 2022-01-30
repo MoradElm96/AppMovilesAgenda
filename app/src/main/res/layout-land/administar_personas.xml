@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ContenedorPrincipal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondouno"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="319dp"
+        android:layout_height="293dp"
+        android:layout_marginTop="21dp"
+        android:layout_marginBottom="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            tools:ignore="MissingConstraints">
+
+
+            <EditText
+                android:id="@+id/editTextTextNombre"
+                android:layout_width="match_parent"
+
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/editTextTextNombre"
+                android:inputType="textPersonName"
+                android:maxLength="8"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHighlight="@color/black"
+                android:textColorLink="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                tools:ignore="MissingConstraints,TouchTargetSizeCheck" />
+
+            <EditText
+                android:id="@+id/editTextTextApellidos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+
+                android:hint="@string/editTextTextApellido"
+                android:inputType="textPersonName"
+                android:maxLength="12"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                tools:ignore="MissingConstraints,TouchTargetSizeCheck" />
+
+            <EditText
+                android:id="@+id/editTextNumberTlfn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:digits="1234567890"
+                android:ems="10"
+                android:hint="@string/editTextTextTelefono"
+                android:inputType="number"
+                android:maxLength="9"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                tools:ignore="MissingConstraints,TouchTargetSizeCheck" />
+
+            <EditText
+                android:id="@+id/editTextTextMail"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/editTextTextMail"
+                android:inputType="textEmailAddress"
+                android:singleLine="true"
+                tools:ignore="MissingConstraints,TouchTargetSizeCheck" />
+
+            <Button
+                android:id="@+id/btnAñadir"
+                android:layout_width="match_parent"
+                android:layout_height="49dp"
+                android:layout_centerInParent="true"
+                android:onClick="agregar"
+                android:text="@string/btnAñadir"
+                tools:ignore="MissingConstraints" />
+
+            <Button
+                android:id="@+id/btnConsultarr"
+                android:layout_width="match_parent"
+                android:layout_height="49dp"
+                android:layout_centerInParent="true"
+                android:onClick="consultar"
+                android:text="@string/btnConsultar"
+                tools:ignore="MissingConstraints" />
+
+            <Button
+                android:id="@+id/btnModificar"
+                android:layout_width="match_parent"
+                android:layout_height="49dp"
+                android:layout_centerInParent="true"
+                android:onClick="modificar"
+                android:text="@string/btnModificar"
+
+                tools:ignore="MissingConstraints" />
+
+            <Button
+                android:id="@+id/btnBorrar"
+                android:layout_width="match_parent"
+                android:layout_height="49dp"
+                android:layout_centerInParent="true"
+                android:onClick="borrar"
+                android:text="@string/btnBorrar"
+                tools:ignore="MissingConstraints" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

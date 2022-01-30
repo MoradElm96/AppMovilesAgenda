@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/fondo"
+
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnLinterna"
+        android:layout_width="235dp"
+        android:layout_height="48dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:onClick="ejecutarLinterna"
+
+        android:text="@string/buttonLinterna"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnBase2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:onClick="ejecutarBase"
+        android:text="@string/btnBase"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnVerCont"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="ejecutarVerPersonas"
+        android:text="@string/item2" />
+
+    <Button
+        android:id="@+id/btnCalculadora"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:onClick="ejecutarCalculadora"
+        android:text="@string/btnCalculadora"
+        tools:ignore="MissingConstraints" />
+</LinearLayout>

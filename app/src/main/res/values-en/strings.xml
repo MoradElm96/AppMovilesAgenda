@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Agenda Multiusos</string>
+
+    <string name="item1">Information</string>
+    <string name="item2">View Persons</string>
+    <string name="item3">Exit</string>
+    <string name="item4">Settings</string>
+    <string name="btnBase">Manage Contacts</string>
+    <string name="buttonLinterna">Torch</string>
+    <string name="btnAñadir">Add Contact</string>
+    <string name="btnConsultar">View Contact</string>
+    <string name="txtInfo">Developer Information: Morad El Mourabit Programmer, Mobile Module:
+     This application has a crud of contacts, a mini calculator and a flashlight, see user guide please</string>
+
+    <string name="btnCalculadora">Mini Calculator Machine</string>
+    <string name="btnResultado">View Result</string>
+
+    <string name="buttonVolver">Return</string>
+
+    <string name="btnModificar">Update Contact</string>
+    <string name="btnBorrar">Delete Contact</string>
+    <string name="editTextTextNombre">Write your name</string>
+    <string name="editTextTextApellido">Write your surname</string>
+    <string name="editTextTextTelefono">Write your phone number</string>
+    <string name="editTextTextMail">Write @mail like miEmail@gmail.com</string>
+    <string name="dialogoBorrar">You want to delete this contact</string>
+    <string name="dialogoSalir">Do you really want to exit the application?</string>
+    <string name="dialogoConfirmar">Confirm</string>
+    <string name="dialogoCancelar">Cancel</string>
+
+    <string name="editSegundoOperando">Write a number</string>
+    <string name="editPrimerOperando">Write a number</string>
+    <string name="mensaje_eleccion">Selecione una foto, gracias</string>
+
+
+</resources>

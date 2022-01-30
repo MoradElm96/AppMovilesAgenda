@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Agenda Multiusos</string>
+
+    <string name="item1">Informacion</string>
+    <string name="item2">Ver Personas</string>
+    <string name="item3">Salir</string>
+    <string name="item4">Ajustes</string>
+    <string name="btnBase">Administrar Contactos</string>
+    <string name="buttonLinterna">Linterna</string>
+    <string name="btnAñadir">Añadir Contacto</string>
+    <string name="btnConsultar">Consultar Contacto</string>
+
+    <string name="btnCalculadora">Mini Calculadora</string>
+    <string name="buttonVolver">Volver</string>
+
+    <string name="btnResultado">Resultado</string>
+    <string name="txtInfo">Informacion del desarrollador:             Programador Morad El Mourabit, Modulo Moviles :
+        Esta aplicacion dispone de un crud de contactos, una mini calculadora y una linterna, ver guia de usuario
+
+    </string>
+
+    <string name="btnModificar">Modificar Contacto</string>
+    <string name="btnBorrar">Borrar Contacto</string>
+    <string name="editTextTextNombre">Introduce nombre</string>
+    <string name="editTextTextApellido">Introduce apellido</string>
+    <string name="editTextTextTelefono">Introduce telefono</string>
+    <string name="editTextTextMail">Introduce correo tipo miEmail@gmail.com</string>
+    <string name="dialogoBorrar">Desea borrar este contacto?</string>
+    <string name="dialogoSalir">¿Realmente quiere abandonar la app?</string>
+    <string name="dialogoConfirmar">Confirmar</string>
+    <string name="dialogoCancelar">Cancelar</string>
+    <string name="editSegundoOperando">Introduce numero</string>
+    <string name="editPrimerOperando">Introduce numero</string>
+    <string name="mensaje_eleccion">Selecione una foto, gracias</string>
+
+
+</resources>
